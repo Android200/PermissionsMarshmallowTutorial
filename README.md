@@ -13,10 +13,9 @@ Wichtige Dateien:
 
 ---
 
-<b>SCREENSHOTS</b>
+<b>SCREENSHOT</b>
 
-<img src="" height="500px" />
-<img src="" height="500px" />
+<img src="https://dl.dropboxusercontent.com/s/raoenf6lw85hqh1/Screenshot_20160117-203639_framed.png" height="600px" />
 
 ---
 
