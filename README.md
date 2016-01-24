@@ -10,6 +10,7 @@ So handhabt man die Änderungen bezüglich der Permissions in Android 6.0. Ab je
 Wichtige Dateien: 
 - [MainActivity.java](/app/src/main/java/de/derandroidpro/permissions_marshmallow_tutorial/MainActivity.java)
 - [Layout.xml](/app/src/main/res/layout/activity_main.xml)
+- [Manifest.xml](/app/src/main/AndroidManifest.xml)
 
 ---
 
